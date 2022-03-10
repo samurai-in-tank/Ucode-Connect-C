@@ -1,0 +1,339 @@
+
+#main_window {
+    background: #393D55;
+}
+
+#main_window image {
+
+}
+
+#main_window #chats_sidebar {
+    background: #1F202C;
+    border-right: 1px solid #2f3144;
+}
+
+#main_window #user_info label:first-child {
+    color: #FFF;
+}
+
+#main_window #user_info label:last-child {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#main_window #chats_scroller {
+    background: #1F202C;
+    border: 0;
+}
+
+#main_window #chats_list {
+    background: #1F202C;
+    border-top: 1px solid #2f3144;
+    border-bottom: 1px solid #2f3144;
+}
+
+#main_window #chats_list > * {
+    background: #1F202C;
+}
+
+#main_window #chats_list > * label:first-child {
+    color: #FFF;
+}
+
+#main_window #chats_list > * label:nth-child(2) {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#main_window #chats_list > * label:nth-child(3) {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#main_window #chats_list > *:hover {
+    background: #2C2D3E;
+}
+
+#main_window #server_info {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#main_window #chats_list > *:selected {
+    background: #3E4365;
+    transition: all 0.3s ease-in-out;
+}
+
+#main_window #chat_box {
+    background: #1F202C;
+}
+
+#main_window #chat_info label:first-child {
+    color: #FFF;
+}
+
+#main_window #chat_info button {
+    color: #FFF;
+    background: #3E4365;
+    border-radius: 4px;
+    border: 0;
+    box-shadow: none;
+}
+
+#main_window #chat_info button * {
+    box-shadow: none;
+    text-shadow: none;
+}
+
+#main_window #chat_info button:hover {
+    color: #FFF;
+    background: lighter(#3E4365);
+}
+
+#main_window #chat_info button:active {
+    color: #FFF;
+    background: darker(#3E4365);
+}
+
+#main_window #chat_scroller {
+    background: #393D55;
+    border: 0;
+    border-top: 1px solid #2f3144;
+    border-bottom: 1px solid #2f3144;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#main_window #messages_container > box > box {
+    background: #181A29;
+    padding: 14px;
+    border-radius: 4px;
+}
+
+#main_window #messages_container > box > box > label:nth-child(1) {
+    color: #FFF;
+}
+
+#main_window #messages_container > box > box > label:nth-child(2) {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#main_window #messages_container > box > box > label:nth-child(3) {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+#main_window #greeting_message {
+    background: rgba(24, 26, 41, 0.6);
+    padding: 14px;
+    border-radius: 4px;
+}
+
+#main_window #greeting_message > label:nth-child(1) {
+    color: #FFF;
+}
+
+#main_window #greeting_message > label:nth-child(2) {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#main_window #greeting_message > label:nth-child(3) {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+#main_window #message_entry > entry {
+    background: #1F202C;
+    border: none;
+    color: #FFF;
+    text-shadow: none;
+    box-shadow: none;
+    outline: none;
+    padding: 0;
+    caret-color: rgba(255, 255, 255, 1);
+}
+
+#main_window #message_entry > button {
+    color: #FFF;
+    background: #3E4365;
+    border: 0;
+    border-radius: 4px;
+    border-left: 1px solid #2f3144;
+    box-shadow: none;
+}
+
+#main_window #message_entry > button * {
+    box-shadow: none;
+    text-shadow: none;
+}
+
+#main_window #message_entry > button:hover {
+    color: #FFF;
+    background: lighter(#3E4365);
+}
+
+#main_window #message_entry > button:active {
+    color: #FFF;
+    background: darker(#3E4365);
+}
+
+#main_window #chatinfo_box {
+    background: #1F202C;
+}
+
+#main_window #chatinfo_bar > label {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#main_window #chatinfo_bar button {
+    color: #FFF;
+    background: #3E4365;
+    border-radius: 4px;
+    border: 0;
+    box-shadow: none;
+}
+
+#main_window #chatinfo_bar button * {
+    box-shadow: none;
+    text-shadow: none;
+}
+
+#main_window #chatinfo_bar button:hover {
+    color: #FFF;
+    background: lighter(#3E4365);
+}
+
+#main_window #chatinfo_bar button:active {
+    color: #FFF;
+    background: darker(#3E4365);
+}
+
+#main_window #chatinfo_scroller {
+    background: #393D55;
+    border: 0;
+    border-top: 1px solid #2f3144;
+    border-bottom: 1px solid #2f3144;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#chatinfo_container > box:first-child {
+    padding: 28px;
+    border-radius: 50%;
+    background: #1F202C;
+}
+
+#chatinfo_title {
+    color: rgba(255, 255, 255, 1);
+}
+
+#chatinfo_status {
+    color: rgba(255, 255, 255, 1);
+}
+
+#chatinfo_desc {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#main_window #tabs_sidebar {
+    border: 0;
+    border-left: 1px solid #2f3144;
+}
+
+#main_window #tabs_switch {
+    background: #1F202C;
+    border-bottom: 1px solid #2f3144;
+}
+
+#main_window #tabs_switch button {
+    background: #1F202C;
+    padding: 0px 14px;
+    color: rgba(255, 255, 255, 0.6);
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+#main_window #tabs_switch button:first-child {
+    border-right: 1px solid #2f3144;
+}
+
+#main_window #tabs_switch button * {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+#main_window #tabs_switch button:hover {
+    background: lighter(#1F202C);
+    color: rgba(255, 255, 255, 1);
+}
+
+#main_window #tabs_switch button:active {
+    background: darker(#1F202C);
+    color: rgba(255, 255, 255, 1);
+}
+
+#main_window #tabs_stack {
+    background: #1F202C;
+}
+
+#main_window #games_scroller {
+    border: 0;
+}
+
+#main_window #games_list {
+    background: #1F202C;
+}
+
+#main_window #games_list > * {
+    padding: 0;
+}
+
+#main_window #games_list > * > box label:nth-child(1) {
+    color: #FFF;
+}
+
+#main_window #games_list > * > box label:nth-child(2) {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#main_window #games_list > * > box label:nth-child(3) {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+#main_window #games_list > *:hover {
+    background: #2C2D3E;
+}
+
+#main_window #games_list > *:active {
+    background: #3E4365;
+    transition: all 0.3s ease-in-out;
+}
+
+#main_window #games_list > *:selected {
+    background: #3E4365;
+    transition: all 0.3s ease-in-out;
+}
+
+#main_window #stickers_scroller {
+    padding: 0;
+    border: 0;
+    background: #1F202C;
+}
+
+#main_window #stickers_list {
+}
+
+#main_window #stickers_list > * {
+    background: #1F202C;
+    padding: 7px;
+}
+
+#main_window #stickers_list > *:hover {
+    background: #2C2D3E;
+}
+
+#main_window #stickers_list > *:active {
+    background: #3E4365;
+    transition: all 0.3s ease-in-out;
+}
+
+#main_window #stickers_list > *:selected {
+    background: #3E4365;
+    transition: all 0.3s ease-in-out;
+}

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.38.2 -->
+<interface>
+  <requires lib="gtk+" version="3.24"/>
+  <object class="GtkBox" id="message">
+    <property name="visible">True</property>
+    <property name="can-focus">False</property>
+    <property name="margin-top">14</property>
+    <property name="margin-bottom">14</property>
+    <child>
+      <object class="GtkImage" id="message_icon">
+        <property name="width-request">48</property>
+        <property name="height-request">48</property>
+        <property name="visible">True</property>
+        <property name="can-focus">False</property>
+        <property name="valign">start</property>
+        <property name="margin-start">14</property>
+        <property name="margin-end">14</property>
+        <property name="pixbuf">../img/user_icon/user_icon_0.png</property>
+      </object>
+      <packing>
+        <property name="expand">False</property>
+        <property name="fill">True</property>
+        <property name="position">0</property>
+      </packing>
+    </child>
+    <child>
+      <object class="GtkBox">
+        <property name="visible">True</property>
+        <property name="can-focus">False</property>
+        <property name="margin-end">152</property>
+        <property name="orientation">vertical</property>
+        <child>
+          <object class="GtkLabel" id="message_username">
+            <property name="visible">True</property>
+            <property name="can-focus">False</property>
+            <property name="halign">start</property>
+            <property name="valign">start</property>
+            <property name="label" translatable="yes">foldybox</property>
+            <attributes>
+              <attribute name="font-desc" value="Sans 14"/>
+            </attributes>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkLabel" id="message_text">
+            <property name="visible">True</property>
+            <property name="can-focus">False</property>
+            <property name="margin-top">7</property>
+            <property name="label" translatable="yes">Мы не можем подключиться к серверу www.google.com. Если этот адрес корректен, то попробуйте следующее: Повторить попытку позже. Проверить своё соединение с сетью. Если вы соединились с Интернетом, но защищены межсетевым экраном, проверьте, что Firefox разрешен доступ в Интернет.</property>
+            <property name="wrap">True</property>
+            <property name="selectable">True</property>
+            <property name="valign">end</property>
+            <property name="xalign">0</property>
+            <attributes>
+              <attribute name="font-desc" value="Sans 14"/>
+            </attributes>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">1</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkLabel" id="message_datetime">
+            <property name="visible">True</property>
+            <property name="can-focus">False</property>
+            <property name="halign">end</property>
+            <property name="valign">start</property>
+            <property name="margin-top">7</property>
+            <property name="label" translatable="yes">21:13</property>
+            <property name="wrap">True</property>
+            <attributes>
+              <attribute name="font-desc" value="Sans 12"/>
+            </attributes>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">2</property>
+          </packing>
+        </child>
+      </object>
+      <packing>
+        <property name="expand">False</property>
+        <property name="fill">True</property>
+        <property name="position">1</property>
+      </packing>
+    </child>
+  </object>
+</interface>

@@ -1,0 +1,31 @@
+{
+    "name": "Cop & Past Inc. Server",
+    "password": "1",
+    "chats": [
+        {
+            "id": 0,
+            "name": "Greeting room",
+            "status": "Welcome back stranger!",
+            "chat_description": "Your journey is about to begin. You are one step away from a new adventure full of wanderings and unknown. Do not hesitate, stranger!",
+            "chat_icon": 0
+        },
+        {
+            "id": 1,
+            "name": "Unicornland",
+            "status": "This room is for true girls",
+            "chat_description": "Boys are not allowed. Peace, love and unicorns reign here. Girl, today we will decorate this world with all the colors of the rainbow, so hurry up to us!",
+            "chat_icon": 1
+        },
+        {
+            "id": 2,
+            "name": "Garage",
+            "status": "The real dudes live here",
+            "chat_description": "We're all family in the garage, so don't worry. Brother for brother, so to speak. Beer and snacks are always here, so don't be shy if you come by.",
+            "chat_icon": 2
+        }
+    ],
+    "greeting_message": {
+        "username": "admin",
+        "text": "Welcome to our sweet server!"
+    }
+}

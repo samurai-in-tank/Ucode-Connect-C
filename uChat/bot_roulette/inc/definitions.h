@@ -1,0 +1,12 @@
+// error.h
+#ifndef CHEERS_DEFINITIONS_H
+#define CHEERS_DEFINITIONS_H
+
+
+#define APP_TITLE "Cheers! | Cop & Past Inc."
+#define START_SCREEN_WIDTH 800
+#define START_SCREEN_HEIGHT 600
+
+#define SOUND_MAX_CHANNELS 8
+
+#endif // !CHEERS_DEFINITIONS_H
