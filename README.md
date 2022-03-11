@@ -33,32 +33,36 @@
     <tr>
         <th>Refresh-Marathon-C</th>
         <th>C, Makefile</th>
-        <th></th>
+        <th>Everything that was recently done at the Marathon must be remembered, reconsidered, rethought and successfully passed.</th>
     </tr>
     <tr>
         <th>Libmx-C</th>
         <th>C, Makefile</th>
-        <th></th>
+        <th>Writing your own library. Approximate duration of work on the challenge - 2 weeks.</th>
     </tr>
     <tr>
         <th>Pathfinder-C</th>
         <th>C, Makefile</th>
-        <th></th>
+        <th>
+            Topics such as: the shortest path and its search, graph theory, the application of graph theory in life, algorithms that will help find this shortest path, the concept of combinatorics and FIFO.
+        </th>
     </tr>
     <tr>
         <th>Uls-C</th>
         <th>C, Makefile</th>
-        <th></th>
+        <th>
+            From this project, students begin to create their own version of the shell, ie the shell of the command line. To begin with, it is suggested to implement part of the functionality of the real ls utility and learn how to work with the file system.
+        </th>
     </tr>
     <tr>
         <th>Ush-C</th>
         <th>C, Makefile</th>
-        <th></th>
+        <th>Students will learn in more detail what a shell is and what features of its functionality are inherent.</th>
     </tr>
     <tr>
         <th>uChat-C</th>
         <th>C, Makefile, gtk-3, gtk glade, liteSQL, json, css</th>
-        <th></th>
+        <th>Implement a chat, such as Telegram, WhatsApp, Viber, Facebook Messenger, etc. As part of this challenge, students will learn about client-server architecture.</th>
     </tr>
 </table>
 
