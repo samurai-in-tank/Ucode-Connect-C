@@ -43,12 +43,12 @@
     </tr>
     <tr>
         <th>Uls-C</th>
-        <th>Uls-C</th>
+        <th>C, Makefile</th>
         <th></th>
     </tr>
     <tr>
         <th>Ush-C</th>
-        <th>Uls-C</th>
+        <th>C, Makefile</th>
         <th></th>
     </tr>
     <tr>
