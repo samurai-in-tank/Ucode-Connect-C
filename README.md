@@ -10,17 +10,6 @@
     </p>
 </h1>
 
-<h2 align="center">Skills:
-    <p> </p>
-    <p align="center">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/c.png" height="60px">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/sdl.png" height="60px">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/glade.png" height="60px">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/shell.png" height="60px">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/gtk.png" height="60px">
-    </p>
-</h2>
-
 <table width="100%" border="0" cellpadding="4" align="center">
     <tr>
         <th>Name</th>
@@ -72,3 +61,14 @@
         <th></th>
     </tr>
 </table>
+
+<h2 align="center">Skills:
+    <p> </p>
+    <p align="center">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/c.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/sdl.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/glade.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/shell.png" height="60px">
+        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/gtk.png" height="60px">
+    </p>
+</h2>
