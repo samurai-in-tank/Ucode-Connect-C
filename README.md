@@ -1,4 +1,4 @@
-<h1 align="center">Ucode-Connect-FullStack
+<h1 align="center">Ucode-Connect-C
     <p> </p>
     <p align="center">
         <a href="https://ucode.world/en/" target="_blank">
@@ -17,8 +17,8 @@
         <th>Tasks</th>
     </tr>
     <tr>
-        <th>Web-Marathone</th>
-        <th></th>
+        <th>C-Marathone</th>
+        <th>C</th>
         <th>Sprint00, Sprint01, Sprint02, Sprint03, Sprint04, Sprint05, Sprint06,Sprint07, Sprint08, Sprint09, Race00, Race01</th>
     </tr>
 </table>
