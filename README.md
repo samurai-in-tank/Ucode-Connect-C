@@ -11,7 +11,8 @@
 </h1>
 
 <table width="100%" border="0" cellpadding="4" align="center">
-    <p align="center">Skills:
+    <p>Skills:</p>
+    <p align="center">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/c.png" height="60px">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/sdl.png" height="60px">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/glade.png" height="60px">
