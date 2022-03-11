@@ -53,7 +53,7 @@
     </tr>
     <tr>
         <th>uChat-C</th>
-        <th>C, Makefile, gtk-3, gtk-3 + glade, liteSQL, json, css</th>
+        <th>C, Makefile, gtk-3, gtk glade, liteSQL, json, css</th>
         <th></th>
     </tr>
 </table>
