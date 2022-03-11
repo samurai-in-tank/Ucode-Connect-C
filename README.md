@@ -11,6 +11,7 @@
 </h1>
 
 <h2 align="center">Skills:
+    <p> </p>
     <p align="center">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/c.png" height="60px">
         <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/sdl.png" height="60px">
