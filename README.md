@@ -28,7 +28,7 @@
     <tr>
         <th>Endgame-C</th>
         <th>C, Makefile, SDL</th>
-        <th></th>
+        <th>Creating a simple GUI game.</th>
     </tr>
     <tr>
         <th>Refresh-Marathon-C</th>
