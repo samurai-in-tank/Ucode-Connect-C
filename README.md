@@ -21,4 +21,39 @@
         <th>C, Shell, Makefile</th>
         <th>Sprint00, Sprint01, Sprint02, Sprint03, Sprint04, Sprint05, Sprint06,Sprint07, Sprint08, Sprint09, Sprint10, Sprint11, Race00, Race01, Race02, Race03</th>
     </tr>
+    <tr>
+        <th>Endgame-C</th>
+        <th>C, Makefile, SDL</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>Refresh-Marathon-C</th>
+        <th>C, Makefile</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>Libmx-C</th>
+        <th>C, Makefile</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>Pathfinder-C</th>
+        <th>C, Makefile</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>Uls-C</th>
+        <th>Uls-C</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>Ush-C</th>
+        <th>Uls-C</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>uChat-C</th>
+        <th>C, Makefile, gtk-3 + glade, gtk-3</th>
+        <th></th>
+    </tr>
 </table>
