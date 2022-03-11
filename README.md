@@ -19,7 +19,11 @@
     <tr>
         <th>C-Marathone</th>
         <th>C, Shell, Makefile</th>
-        <th>Sprint00, Sprint01, Sprint02, Sprint03, Sprint04, Sprint05, Sprint06,Sprint07, Sprint08, Sprint09, Sprint10, Sprint11, Race00, Race01, Race02, Race03</th>
+        <th>
+            <p></p>
+            <p> </p>
+            <p>Sprint00, Sprint01, Sprint02, Sprint03, Sprint04, Sprint05, Sprint06,Sprint07, Sprint08, Sprint09, Sprint10, Sprint11, Race00, Race01, Race02, Race03</p>
+        </th>
     </tr>
     <tr>
         <th>Endgame-C</th>
