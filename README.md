@@ -67,10 +67,20 @@
 <h2 align="center">Skills:
     <p> </p>
     <p align="center">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/c.png" height="60px">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/sdl.png" height="60px">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/glade.png" height="60px">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/shell.png" height="60px">
-        <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/gtk.png" height="60px">
+        <a href="" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/c.png" height="60px">
+        </a>
+        <a href="https://www.libsdl.org/" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/sdl.png" height="60px">
+        </a>
+        <a href="https://glade.gnome.org/" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/glade.png" height="60px">
+        </a>
+        <a href="https://habr.com/ru/post/548078/" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/shell.png" height="60px">
+        </a>
+        <a href="https://www.gtk.org/" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/gtk.png" height="60px">
+        </a>
     </p>
 </h2>
