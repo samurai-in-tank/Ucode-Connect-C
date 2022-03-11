@@ -20,9 +20,8 @@
         <th>C-Marathone</th>
         <th>C, Shell, Makefile</th>
         <th>
-            <p></p>
-            <p> </p>
-            <p>Sprint00, Sprint01, Sprint02, Sprint03, Sprint04, Sprint05, Sprint06,Sprint07, Sprint08, Sprint09, Sprint10, Sprint11, Race00, Race01, Race02, Race03</p>
+            <p>The marathon is an intensive stage that shows the real world of programming, introduces the basics, gives reliable skills in coding, with which students will go to the next stage of the program. The main task of the Marathon is to awaken abilities, immerse yourself in a completely new environment, give the opportunity to quickly and efficiently engage in basic knowledge and skills to move forward in the program.
+            </p>
         </th>
     </tr>
     <tr>
