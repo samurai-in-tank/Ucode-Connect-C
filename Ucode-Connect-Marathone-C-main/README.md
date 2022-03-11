@@ -13,87 +13,70 @@
 <table width="100%" border="0" cellpadding="4" align="center">  
         <tr>
             <th>Name</th>
-            <th>Description</th>
             <th>Grade</th>
         </tr>
         <tr>
             <th>Sprint00</th>
-            <th></th>
             <th>100</th>
         </tr>
          <tr>
             <th>Sprint01</th>
-            <th></th>
             <th>100</th>
         </tr>
          <tr>
             <th>Sprint02</th>
-            <th></th>
             <th>100</th>
         </tr>
          <tr>
             <th>Sprint03</th>
-            <th></th>
             <th>99</th>
         </tr>
          <tr>
             <th>Sprint04</th>
-            <th></th>
             <th>95</th>
         </tr>
          <tr>
             <th>Sprint05</th>
-            <th></th>
             <th>100</th>
         </tr>
          <tr>
             <th>Sprint06</th>
-            <th></th>
             <th>100</th>
         </tr>
          <tr>
             <th>Sprint07</th>
-            <th></th>
             <th>100</th>
         </tr>
          <tr>
             <th>Sprint08</th>
-            <th></th>
             <th>100</th>
         </tr>
          <tr>
             <th>Sprint09</th>
-            <th></th>
             <th>100</th>
         </tr>
         <tr>
             <th>Sprint10</th>
-            <th></th>
             <th>100</th>
         </tr>
          <tr>
             <th>Sprint11</th>
-            <th></th>
             <th>100</th>
         </tr>
          <tr>
             <th>Race00</th>
-            <th></th>
             <th>120</th>
         </tr>
          <tr>
             <th>Race01</th>
-            <th></th>
             <th>120</th>
         </tr>
          <tr>
             <th>Race02</th>
-            <th></th>
             <th>120</th>
         </tr>
          <tr>
             <th>Race03</th>
-            <th></th>
             <th>120</th>
         </tr>
     </table>
