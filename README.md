@@ -82,5 +82,8 @@
         <a href="https://www.gtk.org/" target="_blank">
             <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/gtk.png" height="60px">
         </a>
+        <a href="https://en.wikipedia.org/wiki/JSON" target="_blank">
+            <img src="https://github.com/CamyrauBTanke/CamyrauBTanke/blob/main/img/skills/json.png" height="60px">
+        </a>
     </p>
 </h2>
