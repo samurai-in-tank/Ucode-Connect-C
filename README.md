@@ -38,7 +38,7 @@
     <tr>
         <th>Libmx-C</th>
         <th>C, Makefile</th>
-        <th>Writing your own library. Approximate duration of work on the challenge - 2 weeks.</th>
+        <th>Writing your own library.</th>
     </tr>
     <tr>
         <th>Pathfinder-C</th>
@@ -50,9 +50,7 @@
     <tr>
         <th>Uls-C</th>
         <th>C, Makefile</th>
-        <th>
-            From this project, students begin to create their own version of the shell, ie the shell of the command line. To begin with, it is suggested to implement part of the functionality of the real ls utility and learn how to work with the file system.
-        </th>
+        <th>Implement some functionality of real utilities and learn to work with the file system.</th>
     </tr>
     <tr>
         <th>Ush-C</th>
