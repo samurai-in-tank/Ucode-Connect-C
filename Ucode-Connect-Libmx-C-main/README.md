@@ -1,4 +1,4 @@
-<h1 align="center">Ucode-Connect-Marathone-Web
+<h1 align="center">Ucode-Connect-Libmx-C
     <p> </p>
     <p align="center">
         <a href="https://ucode.world/en/" target="_blank">
@@ -16,7 +16,7 @@
         <th>Grade</th>
     </tr>
     <tr>
-        <th>Sprint00</th>
+        <th>Libmx</th>
         <th>100</th>
     </tr>
 </table>
